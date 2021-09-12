@@ -122,12 +122,12 @@ for (linha = 0; linha < 1000; linha++)
             matriz[linha][coluna].r = 40;
             matriz[linha][coluna].g = 40;
             matriz[linha][coluna].b = 40;
-
-            if (linha < cadeiaMenor[coluna] + 10 && linha > cadeiaMenor[coluna])
-            {
-                matriz[linha][coluna].r = 30;
-                matriz[linha][coluna].g = 30;
-                matriz[linha][coluna].b = 30;
+            
+         if (linha < cadeiaMenor[coluna] + 10 && linha > cadeiaMenor[coluna])
+         {
+             matriz[linha][coluna].r = 30;
+             matriz[linha][coluna].g = 30;
+             matriz[linha][coluna].b = 30;
             }
         }
     }
