@@ -32,7 +32,7 @@ Jean: Tratamento dos dados recebidos no momento da compilação, implementaçõe
 
 Após fazer o donwload do do arquivo .zip, você poderá <br/>
 
-rodar o programa através do prompt do comando do seu omputador.
+rodar o programa através do prompt do comando do seu computador.
 
 você deverá ir até a pasta selecionada e <br/>
 
